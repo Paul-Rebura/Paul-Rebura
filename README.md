@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Ciprian-Paul Ciurean
 
-<!--
-**Paul-Rebura/Paul-Rebura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AWS Support Engineer** @ [Rebura](https://www.rebura.com/uk/en/about-us.html)  
 
-Here are some ideas to get you started:
+🌍 **Helping businesses scale in the cloud with AWS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **DevOps | ☁️ Cloud Automation | 🛡️ Infrastructure Security**
+
+---
+
+I'm currently working at **Rebura**, an AWS Premier Tier Services Partner based in the UK. We specialize in cloud migrations, DevOps transformations, and building scalable SaaS platforms on AWS.
+
+With hands-on experience in:
+- ☁️ **AWS**
+- 🐧 **Linux**
+- 🛠️ **Terraform**
+- 🐳 **Docker**
+- ⚙️ **CI/CD**
+
+I enjoy solving complex infrastructure challenges and automating all the things 💡
+
+---
+
+📫 **Learn more about me:** [paulciurean.com](https://paulciurean.com)  
+📁 Feel free to explore my projects, contributions, and cloud experiments!
+
+Let’s connect and build something great together! 🌟
